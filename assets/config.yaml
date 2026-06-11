@@ -1,0 +1,8 @@
+backend:
+  mode: trystero
+trystero:
+  firebase:
+    apiKey: AIzaSyDeUcVgmt7gtWG_2KFO6KiWj22175RGZCk
+    databaseURL: https://double-plus-studio-udonarium-default-rtdb.asia-southeast1.firebasedatabase.app
+    projectId: double-plus-studio-udonarium
+    appId: 1:841359350867:web:a922396eb95c1b28acbaa6
