@@ -1,0 +1,1 @@
+import"./chunk-DKLAGT4O.js";var o={Emoklore:{success_count:"\u6210\u529F\u6570%{count}",double:"\u30C0\u30D6\u30EB",triple:"\u30C8\u30EA\u30D7\u30EB",miracle:"\u30DF\u30E9\u30AF\u30EB",catastrophe:"\u30AB\u30BF\u30B9\u30C8\u30ED\u30D5"}},t={ja_jp:o};export{t as default,o as ja_jp};

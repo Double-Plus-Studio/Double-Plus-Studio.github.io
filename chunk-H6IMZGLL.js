@@ -1,0 +1,1 @@
+import"./chunk-DKLAGT4O.js";var t={FinalFantasyXIV:{directhit:"\u30C0\u30A4\u30EC\u30AF\u30C8\u30D2\u30C3\u30C8",normalhit:"\u57FA\u672C\u52B9\u679C\u306E\u307F"}},n={ja_jp:t};export{n as default,t as ja_jp};
