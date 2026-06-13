@@ -1,0 +1,1 @@
+import"./chunk-DKLAGT4O.js";var e={Emoklore:{success_count:"\uC131\uACF5 \uC218 %{count},",double:"\uB354\uBE14",triple:"\uD2B8\uB9AC\uD50C",miracle:"\uBBF8\uB77C\uD074",catastrophe:"\uCE74\uD0C0\uC2A4\uD2B8\uB85C\uD504"}},r={ko_kr:e};export{r as default,e as ko_kr};

@@ -1,0 +1,1 @@
+import"./chunk-DKLAGT4O.js";var t={Fiasco:{white:"\u767D",black:"\u9ED2",fs:{count:"%{count}\u500B"},wb:{duplicate_error:{white:"\u767D\u6307\u5B9A(W)\u306F\u91CD\u8907\u3067\u304D\u307E\u305B\u3093\u3002",black:"\u9ED2\u6307\u5B9A(B)\u306F\u91CD\u8907\u3067\u304D\u307E\u305B\u3093\u3002"}}}},e={ja_jp:t};export{e as default,t as ja_jp};
