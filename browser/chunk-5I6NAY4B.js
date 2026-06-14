@@ -1,1 +1,0 @@
-import"./chunk-DKLAGT4O.js";var r={SwordWorld:{critical:"\u81EA\u52A8\u6210\u529F",fumble:"\u81EA\u52A8\u5931\u8D25",keynumber_exceeds:"\u5A01\u529B\u6700\u5927\u4E3A%{keyMax}",infinite_critical:"\u8BF7\u8F93\u5165%{min_critical}\u4EE5\u4E0A\u7684C\u503C",round_text:"%{reroll_count}\u66B4\u51FB"}},c={zh_hans:r};export{c as default,r as zh_hans};
